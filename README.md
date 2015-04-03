@@ -5,3 +5,4 @@ Ce projet est destiné au TP sur le cours GIT
 Il contient :
 - ce fichier README
 - un autre fichier text
+- un fichier bonjour.js
