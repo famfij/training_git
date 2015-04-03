@@ -1,3 +1,7 @@
 # training_git
-for OpenClassrooms training pour test le push
-plus une modification depuis GitHub
+for OpenClassrooms training
+
+Ce projet est destiné au TP sur le cours GIT
+Il contient :
+- ce fichier README
+- un autre fichier text
